@@ -17,3 +17,6 @@ I used this project to learn:
 - [x] When and How to Commit
 - [x] File Organisation
 - [x] Cloning Repos
+
+## Setup
+- No setup needed ... this repo was purely to practise my new git skills!
